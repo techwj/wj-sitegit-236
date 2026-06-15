@@ -1,0 +1,88 @@
+# Validation Report - cleaning-service-choice
+
+Generated: 2026-06-05T13:33:18.039553
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Cleaning Service Choice
+- ✓ Article word count OK: Beginner Cleaning Service Choice: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Cleaning Service Choice
+- ✓ Article word count OK: Beginner Cleaning Service Choice Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Cleaning Service Choice
+- ✓ Article word count OK: Beginner Cleaning Service Choice in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Cleaning Service Choice
+- ✓ Article word count OK: Common Mistakes in Beginner Cleaning Service Choice
+- ✓ Article word count OK: Beginner Cleaning Service Choice for Beginners
+- ✓ Article word count OK: Advanced Beginner Cleaning Service Choice Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Cleaning Service Choice
+- ✓ Article word count OK: Advanced Cleaning Service Choice: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Cleaning Service Choice
+- ✓ Article word count OK: Advanced Cleaning Service Choice Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Cleaning Service Choice
+- ✓ Article word count OK: Advanced Cleaning Service Choice in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Cleaning Service Choice
+- ✓ Article word count OK: Common Mistakes in Advanced Cleaning Service Choice
+- ✓ Article word count OK: Advanced Cleaning Service Choice for Beginners
+- ✓ Article word count OK: Advanced Advanced Cleaning Service Choice Techniques
+- ✓ Article word count OK: The Ultimate Guide to Cleaning Service Choice Tips
+- ✓ Article word count OK: Cleaning Service Choice Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Cleaning Service Choice Tips
+- ✓ Article word count OK: Cleaning Service Choice Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Cleaning Service Choice Tips
+- ✓ Article word count OK: Cleaning Service Choice Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Cleaning Service Choice Tips
+- ✓ Article word count OK: Common Mistakes in Cleaning Service Choice Tips
+- ✓ Article word count OK: Cleaning Service Choice Tips for Beginners
+- ✓ Article word count OK: Advanced Cleaning Service Choice Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Cleaning Service Choice History
+- ✓ Article word count OK: Cleaning Service Choice History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Cleaning Service Choice History
+- ✓ Article word count OK: Cleaning Service Choice History Tips and Best Practices
+- ✓ Article word count OK: The History of Cleaning Service Choice History
+- ✓ Article word count OK: Cleaning Service Choice History in 2026: Current Trends
+- ✓ Article word count OK: Future of Cleaning Service Choice History
+- ✓ Article word count OK: Common Mistakes in Cleaning Service Choice History
+- ✓ Article word count OK: Cleaning Service Choice History for Beginners
+- ✓ Article word count OK: Advanced Cleaning Service Choice History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Cleaning Service Choice
+- ✓ Article word count OK: Trending Cleaning Service Choice: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Cleaning Service Choice
+- ✓ Article word count OK: Trending Cleaning Service Choice Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Cleaning Service Choice
+- ✓ Article word count OK: Trending Cleaning Service Choice in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Cleaning Service Choice
+- ✓ Article word count OK: Common Mistakes in Trending Cleaning Service Choice
+- ✓ Article word count OK: Trending Cleaning Service Choice for Beginners
+- ✓ Article word count OK: Advanced Trending Cleaning Service Choice Techniques
+- ✓ Article word count OK: The Ultimate Guide to Cleaning Service Choice Tutorials
+- ✓ Article word count OK: Cleaning Service Choice Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Cleaning Service Choice Tutorials
+- ✓ Article word count OK: Cleaning Service Choice Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Cleaning Service Choice Tutorials
+- ✓ Article word count OK: Cleaning Service Choice Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Cleaning Service Choice Tutorials
+- ✓ Article word count OK: Common Mistakes in Cleaning Service Choice Tutorials
+- ✓ Article word count OK: Cleaning Service Choice Tutorials for Beginners
+- ✓ Article word count OK: Advanced Cleaning Service Choice Tutorials Techniques
+- ✓ Ad configuration validated

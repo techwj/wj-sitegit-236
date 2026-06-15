@@ -1,0 +1,59 @@
+{
+  "siteId": "cleaning-service-choice",
+  "generatedAt": "2026-06-05T13:33:18.039776",
+  "categories": [
+    "beginner-cleaning-service-choice",
+    "advanced-cleaning-service-choice",
+    "tips-cleaning-service-choice",
+    "history-cleaning-service-choice",
+    "trending-cleaning-service-choice",
+    "tutorials-cleaning-service-choice"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-cleaning-service-choice",
+      "category_name": "Beginner Cleaning Service Choice"
+    },
+    {
+      "category_slug": "advanced-cleaning-service-choice",
+      "category_name": "Advanced Cleaning Service Choice"
+    },
+    {
+      "category_slug": "tips-cleaning-service-choice",
+      "category_name": "Cleaning Service Choice Tips"
+    },
+    {
+      "category_slug": "history-cleaning-service-choice",
+      "category_name": "Cleaning Service Choice History"
+    },
+    {
+      "category_slug": "trending-cleaning-service-choice",
+      "category_name": "Trending Cleaning Service Choice"
+    },
+    {
+      "category_slug": "tutorials-cleaning-service-choice",
+      "category_name": "Cleaning Service Choice Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "cleaning-service-choice",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "sidebar",
+    "site_title": "Cleaning Service Choice Central",
+    "articles_per_row": 3
+  }
+}
